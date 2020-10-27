@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 2025,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sync-azure-keyvault-secrets-and-certificates-between-vaults/master/Start-AzureKVSync.ps1",
+    "DownloadCount": 464,
+    "Id": "Sync-Azure-Keyvault-f6efc502",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 134,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-10-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "If you have a keyvault in your primary region and a secondary region, you may have a reason to sync up Keyvaults.Possibly you need to sync a keyault from a primary Vault to a secondary Vault for Dev or Testing.This script synchronizes secrets/keys based on the last modified time.",
+    "Title": "Sync Azure Keyvault Secrets and Certificates between vaults",
+    "UpdatedDate": "2019-10-8T00:00:00",
+    "Url": "https://github.com/azureautomation/sync-azure-keyvault-secrets-and-certificates-between-vaults",
+    "UserTags": "Key Vault, Azure Key Vault, keyvault"
+}
